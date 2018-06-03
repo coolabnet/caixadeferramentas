@@ -1,0 +1,20 @@
+ferramentas:
+
+  - nome: "Anntena Downtilt Calculator"
+    desc: "Para calcular o ângulo da antena"
+    link: "https://www.pasternack.com/t-calculator-antenna-downtilt.aspx"
+
+  - nome: "Mapahub"
+    desc: "Boa para inserir ícones nos mapas e incluir observações"
+    link: "mapahub.net"
+
+  - nome: "Ubnt"
+    desc: "Recomendada para análise de cobertura dos pontos de acesso"
+    link: "link.ubnt.com"
+
+  - nome: "Ubnt"
+    desc: "Mapas topográficos para identificar locais com maior e menor altura"
+    link: "topographic-map.com"
+
+
+
