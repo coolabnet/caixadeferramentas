@@ -12,7 +12,7 @@ ferramentas:
     desc: "Recomendada para análise de cobertura dos pontos de acesso"
     link: "link.ubnt.com"
 
-  - nome: "Ubnt"
+  - nome: "Mapas Topográficos"
     desc: "Mapas topográficos para identificar locais com maior e menor altura"
     link: "topographic-map.com"
 
